@@ -15,6 +15,14 @@ author_profile: true
 
 <!-- New style rendering if publication categories are defined -->
 
-1. Z. Xu, R. Saiseau, O. Ramírez-Soto, & S. Karpitschka, [Vapor-mediated wetting and imbibition control on micropatterned surfaces](https://doi.org/10.1073/pnas.2519761122), **Proc. Natl. Acad. Sci. U.S.A.** 123 (1) e2519761122, 2026.
+1. Z. Xu, R. Saiseau, O. Ramírez-Soto, & S. Karpitschka, [Vapor-mediated wetting and imbibition control on micropatterned surfaces](https://doi.org/10.1073/pnas.2519761122), **Proc. Natl. Acad. Sci. U.S.A.** 123 (1) e2519761122, 2026.  Press release: 
 
 
+### Talks
+"Vapor-mediated wetting and imbibition control on micropatterned surfaces". DPG, Rensburg, Germany, March, 2025
+
+"Vapor-mediated wetting and imbibition control on micropatterned surfaces". DPG, Rensburg, Germany, March, 2025
+
+"Vapor-mediated wetting and imbibition control on micropatterned surfaces". Droplet, Liege, Belgem, July, 2025
+
+"Vapor-mediated wetting and imbibition control on micropatterned surfaces". Droplet, Liege, Belgem, July, 2025
